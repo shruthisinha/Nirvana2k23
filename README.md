@@ -9,37 +9,53 @@ Niravana 2023 is an exciting technical event organized by ACS College of Enginee
 The website is built using the following technologies:
 
 HTML: Used for structuring the web pages.
+
 CSS: Used for styling and layout of the website.
+
 JavaScript: Used for interactive features and dynamic content.
-Features
+
+## Features
 The website incorporates the following features:
 
 Home Page: Provides an overview of the fest, including key details, event highlights.
+
 Event Details: Displays detailed information about each event, including event descriptions, rules, and registration forms.
+
 Organizers: Displays information about all the Event Co-Ordinators and Organizers.
+
 Contact Us: Provides contact information for reaching out to the fest organizers and addressing any queries or concerns.
 
 ## How to Use
 To run the website locally, follow these steps:
 
 Clone this repository to your local machine using the following command:
+
 bash
 Copy code
 git clone https://github.com/your-username/niravana-2023.git
 Navigate to the project directory:
+
 bash
 Copy code
+
 cd niravana-2023
+
 Open the index.html file in your preferred web browser.
-Contributions
+
+## Contributions
 Contributions to this project are welcome. If you'd like to contribute, please follow these steps:
 
 Fork the repository.
+
 Create a new branch with a descriptive name for your feature or bug fix.
+
 Make your changes and test thoroughly.
+
 Commit your changes and push to your forked repository.
+
 Submit a pull request, providing a clear description of your changes.
-Credits
+
+## Credits
 This website was developed by the following individuals:
 
 ## Shruthi Sinha
