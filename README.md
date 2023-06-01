@@ -32,7 +32,7 @@ Clone this repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/niravana-2023.git
+git clone (https://github.com/shruthisinha/Nirvana2k23)
 Navigate to the project directory:
 
 bash
